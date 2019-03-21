@@ -47,12 +47,12 @@ reconsider your assumptions about the way forward.
 approach, simplify the problem, but it's less about the problem itself than how
 we're working through it. Instead of trying to fix an entire app, can you focus
 on a block of code? A line of code? If fighting your way through too much code
-at once is what's getting stuck, you can adjust your context and take each piece
-one step at a time. Some developers escape this trap by starting with a clean
-slate and writing a simple program to do the simplest version of the task. They
-then "grow" their simple example's complexity until it get closer to the _real_
-problem and usually have their "A-ha!" moment in that process. This approach
-naturally joins to meet our following strategy as well.
+at once is what's getting you stuck, you can adjust your context and take each 
+piece one step at a time. Some developers escape this trap by starting with a 
+clean slate and writing a simple program to do the simplest version of the task. 
+They then "grow" their simple example's complexity until it get closer to the 
+_real_ problem and usually have their "A-ha!" moment in that process. This 
+approach naturally joins to meet our following strategy as well.
 
 5. **Start with a solution and solve the problem backwards.** This is the
 approach to take if you know exactly what your result should be but aren't sure
@@ -64,7 +64,7 @@ code, we sometimes get the intuition or insight that the way the code _is_
 isn't the way it should be. Maybe the current code uses an `Array` and you're 
 _repeatedly_ doing a `find()` _instead_ of a lookup (something `Hash`es
 are ideal for). In your heart of hearts, you know you _should_ be using a
-`Hash` instead. Y0ou know you and every programming that will come after you 
+`Hash` instead. You know you and every programmer that will come after you 
 would _wish_ for a `Hash`...but going through and changing the code to be a
 `Hash` feels like too much work and it's not really the cause of **_my_** bug so,
 #yolo, leave the old code in. This strategy says "do the opposite." By making

@@ -19,7 +19,7 @@ process of solving problems. So, when our programming gets difficult or
 confusing, it usually helps us to think about generalized problem solving and
 how we can apply those techniques to our particular issue at hand. The behavior
 we should _most_ seek to avoid is "trying stuff randomly." You wouldn't want
-a surgeon to take that approah when it comes to fixing one of your ailments,
+a surgeon to take that approach when it comes to fixing one of your ailments,
 treat your code with a similar level of respect.
 
 We have a few approaches to try when we get stuck. Let's take a look at each and
